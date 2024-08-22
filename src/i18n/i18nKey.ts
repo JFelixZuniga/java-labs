@@ -1,37 +1,37 @@
 enum I18nKey {
-  home = 'home',
-  about = 'about',
-  archive = 'archive',
-  search = 'search',
+  home = 'Inicio',
+  about = 'Acerca De',
+  archive = 'Archivo',
+  search = 'Buscar',
 
-  tags = 'tags',
-  categories = 'categories',
-  recentPosts = 'recentPosts',
+  tags = 'Etiquetas',
+  categories = 'Categorías',
+  recentPosts = 'Entradas Recientes',
 
-  comments = 'comments',
+  comments = 'Comentarios',
 
-  untitled = 'untitled',
-  uncategorized = 'uncategorized',
-  noTags = 'noTags',
+  untitled = 'Sin Título',
+  uncategorized = 'Sin Categoría',
+  noTags = 'Sin Etiquetas',
 
-  wordCount = 'wordCount',
-  wordsCount = 'wordsCount',
-  minuteCount = 'minuteCount',
-  minutesCount = 'minutesCount',
-  postCount = 'postCount',
-  postsCount = 'postsCount',
+  wordCount = 'palabra',
+  wordsCount = 'palabras',
+  minuteCount = 'minuto',
+  minutesCount = 'minutos',
+  postCount = 'entrada',
+  postsCount = 'entradas',
 
-  themeColor = 'themeColor',
+  themeColor = 'Color del Tema',
 
-  lightMode = 'lightMode',
-  darkMode = 'darkMode',
-  systemMode = 'systemMode',
+  lightMode = 'Claro',
+  darkMode = 'Oscuro',
+  systemMode = 'Sistema',
 
-  more = 'more',
+  more = 'Más',
 
-  author = 'author',
-  publishedAt = 'publishedAt',
-  license = 'license',
+  author = 'Autor',
+  publishedAt = 'Publicado en',
+  license = 'Licencia',
 }
 
 export default I18nKey
